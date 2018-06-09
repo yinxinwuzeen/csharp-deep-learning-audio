@@ -1,0 +1,5 @@
+数据集下载地址：
+http://marsyas.info/downloads/datasets.html
+1.2G数据集：
+http://opihi.cs.uvic.ca/sound/genres.tar.gz
+下载完放在gtzan文件夹中。
